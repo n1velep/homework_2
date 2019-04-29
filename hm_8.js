@@ -6,4 +6,4 @@ function power(val, pow) {
     }
 }
 
-alert( power(9, 3) );
+alert( power(9, 3) ); // Вызов функции
